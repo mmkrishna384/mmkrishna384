@@ -87,21 +87,3 @@
 <p align="center">
   ⭐️ From <b>Mohan Krishna</b>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmkrishna384&label=Profile%20views&color=blue&style=flat" />
-</p>
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mmkrishna384/mmkrishna384/output/github-contribution-grid-snake.svg" />
-</p>
-## 📄 Resume
-
-<p align="center">
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-green?style=for-the-badge" />
-  </a>
-</p>
-## 🌐 Portfolio
-
-🚀 Coming soon... (Building my personal portfolio website)
