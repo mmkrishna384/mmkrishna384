@@ -1,36 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mohan Krishna</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Machine+Learning+Learner;Python+Enthusiast;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Data+Driven+Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50" />
 </p>
 
 ---
 
 ## 🚀 About Me
-🔭 I’m currently working on  
-Building projects in Machine Learning and Web Development  
-
-🤝 I’m looking to collaborate on  
-Open-source projects, Python, and AI-based applications  
-
-🆘 I’m looking for help with  
-Advanced Machine Learning and Full Stack Development  
-
-🌱 I’m currently learning  
-Machine Learning, Data Structures & Algorithms, and Full Stack Development  
-
-💬 Ask me about  
-Python, HTML, CSS, JavaScript, and basic ML concepts  
-
-⚡ Fun fact  
-I love turning ideas into real projects and learning something new every day 🚀  
+🎓 B.Tech CSE Student (CGPA: 9.51/10)  
+🤖 Passionate about Machine Learning & Data-Driven Problem Solving  
+📊 Focused on building predictive models and evaluating performance  
+🌱 Currently learning DSA, ML, and Full Stack Development  
+💬 Ask me about Python, ML, Web Development  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -48,22 +36,6 @@ I love turning ideas into real projects and learning something new every day �
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mmkrishna384&theme=darkhub" />
-</p>
-
----
-
-## 📌 Projects
-
-🔹 Word Search Puzzle (C Project)  
-🔹 Titanic Machine Learning Project  
-🔹 More projects coming soon...  
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -71,6 +43,31 @@ I love turning ideas into real projects and learning something new every day �
     <img src="https://leetcard.jacoblin.cool/Mohankrishna07?theme=dark&font=Baloo&ext=heatmap" />
   </a>
 </p>
+
+---
+
+## 📌 Projects
+
+🔹 **Heart Disease Risk Prediction**  
+→ Built ML models (Logistic Regression, Random Forest)  
+→ Evaluated using F1-score & ROC-AUC  
+
+🔹 **Customer Churn Prediction**  
+→ Developed ML pipeline using XGBoost  
+→ Performed preprocessing & feature selection  
+
+🔹 **Student Management System**  
+→ Full-stack app using Flask, SQL, HTML, CSS  
+→ Includes authentication & database integration  
+
+---
+
+## 🏆 Achievements
+
+🏅 1st Place – Website Design Competition  
+🥈 2nd Place – C Coding Contest  
+🏆 Prototype Design Recognition – Engineering Day  
+🎓 NPTEL Elite + Gold Certification (Python)  
 
 ---
 
